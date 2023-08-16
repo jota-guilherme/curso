@@ -1,1 +1,1 @@
-implementação do  tab news par ao curso dev
+implementação do  tab news par ao curso de
